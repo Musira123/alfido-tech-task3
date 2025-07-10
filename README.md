@@ -15,3 +15,5 @@ To perform a brute-force password cracking attack on a given password hash using
    john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 After cracking, displayed result using:
 john --show hash.txt
+✅ Result:
+The password 12345 was successfully cracked from the given hash.
